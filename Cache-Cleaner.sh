@@ -1,10 +1,10 @@
 #!/bin/bash
 
 echo -e "\n"
-echo -e "╔═╗┌─┐┌─┐┬ ┬┌─┐  ╔═╗┬  ┌─┐┌─┐┌┐┌┌─┐┬─┐"
-echo -e "║  ├─┤│  ├─┤├┤───║  │  ├┤ ├─┤│││├┤ ├┬┘"
-echo -e "╚═╝┴ ┴└─┘┴ ┴└─┘  ╚═╝┴─┘└─┘┴ ┴┘└┘└─┘┴└─"
-echo -e "\n                           By: Moul_Cyber"
+echo -e "\e[0;32m╔═╗\e[0m┌─┐┌─┐┬ ┬┌─┐  \e[0;32m╔═╗\e[0m┬  ┌─┐┌─┐┌┐┌┌─┐┬─┐"
+echo -e "\e[0;32m║  \e[0m├─┤│  ├─┤├┤───\e[0;32m║  \e[0m│  ├┤ ├─┤│││├┤ ├┬┘"
+echo -e "\e[0;32m╚═╝\e[0m┴ ┴└─┘┴ ┴└─┘  \e[0;32m╚═╝\e[0m┴─┘└─┘┴ ┴┘└┘└─┘┴└─"
+echo -e "\n                           By: \e[0;32mMoul_Cyber\e[0m"
 
 sleep 2
 
@@ -18,3 +18,4 @@ fi
 echo -e "\033[33m\n -- Available Storage Before Cleaning :  || $Storage || --\033[0m"
 
 
+echo -e "\033[31m\n -- Cleaning ...\n\033[0m "
