@@ -1,2 +1,1 @@
-# Cache-Cleaner
-A lightweight Bash script to clean cache, temporary files, and system clutter to free up disk space on Linux.
+<img width="411" height="137" alt="image" src="https://github.com/user-attachments/assets/e9275de3-deb2-4d17-aa3a-f789bd219974" />
